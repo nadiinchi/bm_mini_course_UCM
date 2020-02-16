@@ -3,4 +3,4 @@
 Outline:
 1. [Lecture](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/Bayesian_methods_presentation.pdf) and [Practise](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/Bayesian_methods_problem_set.pdf) on Introduction to Bayesian methods (Ekaterina Lobacheva)
 1. [Lecture](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/presentation_linear.pdf)  on Bayesian linear regression (Nadezhda Chirkova)
-1. [Lecture](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/presentation_bnn.pdf) and [Practise](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/assignment_practice.ipynb)  on Bayesian linear regression (Nadezhda Chirkova)
+1. [Lecture](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/presentation_bnn.pdf) and [Practise](https://github.com/nadiinchi/bm_mini_course_UCM/blob/master/assignment_practice.ipynb)  on Bayesian neural networks (Nadezhda Chirkova)
